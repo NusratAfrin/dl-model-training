@@ -1,0 +1,5 @@
+Epoch 1/5 - Train loss: 0.0382, acc: 0.9886 - Test loss: 0.0326, acc: 0.9894
+Epoch 2/5 - Train loss: 0.0266, acc: 0.9913 - Test loss: 0.0232, acc: 0.9921
+Epoch 3/5 - Train loss: 0.0196, acc: 0.9937 - Test loss: 0.0316, acc: 0.9906
+Epoch 4/5 - Train loss: 0.0154, acc: 0.9951 - Test loss: 0.0271, acc: 0.9927
+Epoch 5/5 - Train loss: 0.0121, acc: 0.9962 - Test loss: 0.0336, acc: 0.9911
